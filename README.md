@@ -7,4 +7,3 @@ A interactive dashboard built with plotly and Dash!
 
 ![Dash - Brave 31-05-2022 16_41_29](https://user-images.githubusercontent.com/33197382/171160881-c5767c9c-67d1-4e23-a15d-0eefc2dffd43.png)
 
-![Dash - Brave 31-05-2022 16_41_40](https://user-images.githubusercontent.com/33197382/171160882-10a5d48f-95ed-46ec-9da6-0cb153d68329.png)
